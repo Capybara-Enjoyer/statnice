@@ -2,8 +2,8 @@
 <statnice
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="statnice.xsd"
-    posledniUpdate="2025-06-17"
->
+    posledniUpdate="2025-06-17">
+
     <komisar jmeno="Svatá Vlasta" tituly="doc. Ing., CSc.">
         <otazka>Co je proces, procesní řízení, modely procesů, jejich úrovně, notace pro modelování procesů?</otazka>
         <otazka>Jaké existují modely dodávek služeb ERP systémů?</otazka>

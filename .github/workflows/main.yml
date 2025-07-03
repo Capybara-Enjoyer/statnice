@@ -19,7 +19,7 @@ jobs:
 
       - name: Run XSLT transformation
         run: |
-          xsltproc statnice.xsl statnice.xml > statnice-pdf.xml
+          xsltproc statnice.xslt statnice.xml > statnice-pdf.xml
 
       - name: Commit and push changes
         run: |

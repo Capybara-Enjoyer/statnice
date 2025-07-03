@@ -1,0 +1,10 @@
+<renderers>
+  <renderer mime="application/pdf">
+    <fonts>
+      <font kerning="yes" embed-url="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf">
+        <font-triplet name="DejaVu Sans" style="normal" weight="normal"/>
+        <font-triplet name="DejaVu Sans" style="normal" weight="bold"/>
+      </font>
+    </fonts>
+  </renderer>
+</renderers>

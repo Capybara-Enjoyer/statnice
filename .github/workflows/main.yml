@@ -18,7 +18,7 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
-          version: '21'
+          java-version: '21'
           java-package: 'jre'
         
       - name: Download Saxon HE 12.7

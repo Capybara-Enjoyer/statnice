@@ -27,7 +27,7 @@ jobs:
 
       - name: Convert FO to PDF with FOP
         run: |
-          ./fop/fop -fo statnice.fo -pdf statnice.pdf
+          ./fop/fop/fop -fo statnice.fo -pdf statnice.pdf
 
       - name: Commit and push changes
         run: |

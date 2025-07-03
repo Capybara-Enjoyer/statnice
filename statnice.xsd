@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified"
+    attributeFormDefault="unqualified">
+
+    <xs:element name="statnice">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="komisar" type="komisarType" minOccurs="0" maxOccurs="unbounded" />
+                <xs:element name="komise" type="komiseType" minOccurs="0" maxOccurs="unbounded" />
+            </xs:sequence>
+            <xs:attribute name="posledniUpdate" type="xs:date" use="optional" />
+        </xs:complexType>
+        <xs:unique name="uniqueJmenoTituly">
+            <xs:selector xpath="komisar" />
+            <xs:field xpath="@jmeno" />
+            <xs:field xpath="@tituly" />
+        </xs:unique>
+    </xs:element>
+
+    <xs:complexType name="komisarType">
+        <xs:sequence>
+            <xs:element name="otazka" type="xs:string" minOccurs="1" maxOccurs="unbounded" />
+        </xs:sequence>
+        <xs:attribute name="jmeno" type="xs:string" use="required" />
+        <xs:attribute name="tituly" type="xs:string" use="optional" />
+    </xs:complexType>
+
+
+    <xs:complexType name="komiseType">
+        <xs:sequence>
+            <xs:element name="komisar" type="komisarInGroupType" minOccurs="3" maxOccurs="3" />
+            <xs:element name="otazka" type="xs:string" minOccurs="1" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="komisarInGroupType">
+        <xs:attribute name="jmeno" type="xs:string" use="required" />
+        <xs:attribute name="tituly" type="xs:string" use="optional" />
+    </xs:complexType>
+
+</xs:schema>

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statnice
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="statnice.xsd"
+    posledniUpdate="2025-06-17"
+>
+    <komisar jmeno="Svatá Vlasta" tituly="doc. Ing., CSc.">
+        <otazka>Co je proces, procesní řízení, modely procesů, jejich úrovně, notace pro modelování procesů?</otazka>
+        <otazka>Jaké existují modely dodávek služeb ERP systémů?</otazka>
+        <otazka>Jaké je workflow použité metodiky, popište jednotlivé kroky.</otazka>
+        <otazka>Zhlediska teorie rizik, znáte nějaký jiný přístup, kde se nepracuje se zranitelností, kterou jste použil z práce.</otazka>
+        <otazka>Věděl byste co je mapa rizik?</otazka>
+        <otazka>Píšete o tom, že lze použít kvalitativní i kvantitativní metody, mohou být i jiné přístupy? Dejte příklad.</otazka>
+        <otazka>Jak rozumíte IT Governance?</otazka>
+    </komisar>
+    <komisar jmeno="Černý Jan" tituly="PhDr., Ph.D.">
+        <otazka>Co je etika a informační etika?</otazka>
+    </komisar>
+    <komisar jmeno="Strnad Pavel" tituly="Ing., Ph.D.">
+        <otazka>Vysvětlete Pojmy overfitting a underfitting?</otazka>
+        <otazka>Jaké jsou typy strojového učení a rozdíly mezi nimi?</otazka>
+        <otazka>Popište prosím základní rozdíl mezi strojovým učením s učitelem a bez učitele?</otazka>
+        <otazka>Jaký je rozdíl mezi pojmy overfitting a underfitting?</otazka>
+        <otazka>Základní rozdíl mezi strojovým učením s učitelem a bez učitele?</otazka>
+        <otazka>Jaký je rozdíl mezi overfitting a underfitting?</otazka>
+        <otazka>Jaké byste použil tři základní přístupy k anonymizací své vlastní identity?</otazka>
+        <otazka>Jak byste postupoval, kdybyste se chtěl proti dvěma druhům útokům zabezpečit? Druh útoku si vyberte.</otazka>
+        <otazka>Jaké typy dat znáte? A jaké jsou dnes používané pro přenos dat mezi systémy?</otazka>
+        <otazka>Jakým způsobem jste se zamýšlel nad bezpečností dat, která vkládají studenti při registraci?</otazka>
+        <otazka>Můžete nám představit koncept IT Governance v rámci firemní praxe? Představte nám v této souvislosti Balanced Scorecard a jeho užití</otazka>
+        <otazka>Myslíte si, že LLM mají vědomí? A proč ano/ne?</otazka>
+        <otazka>Jaké jsou moderní trendy v IT?</otazka>
+        <otazka>Jak se v daném řešení byly realizovány problémy bezpečnosti?</otazka>
+        <otazka>Navržené řešení běží on premise nebo v cloudu?</otazka>
+    </komisar>
+    <komisar jmeno="Pour Jan" tituly="doc. Ing., CSc.">
+        <otazka>Co je podstatou byznys informatiky?</otazka>
+        <otazka>Jaké jsou hlavní nároky a problémy spojené s analytickými úlohami?</otazka>
+        <otazka>Co je podstatou Big Data?</otazka>
+        <otazka>Co je podstatou Data Lake a jak se řídí jeho provoz?</otazka>
+        <otazka>Co je náplní podnikového informačního systému?</otazka>
+        <otazka>Jaké typy aplikací se vyskytují v podnikové informatice?</otazka>
+        <otazka>Jaké jsou problémy spojené s implementací ERP?</otazka>
+        <otazka>Podnikové informační systémy - aplikace prediktivní analytiky?</otazka>
+        <otazka>Jaké jsou faktory ovliňují řešení úlohy prediktivní analytiky?</otazka>
+        <otazka>Co je IT Governance, jak ho lze využít ve firmně praxi?</otazka>
+        <otazka>Co lze použít z UML jazyka pro návrh webu?</otazka>
+        <otazka>Jaké jsou hlavní modely pro řízení informatiky ve firmě?</otazka>
+        <otazka>Řízení informatiky a podpora byznysu, hlavní funkce a klíčové problémy?</otazka>
+        <otazka>Co se rozumí kvalitní podporou byznysu firmy?</otazka>
+        <otazka>Jaká je podpora byznysu vzhledem k různým typům IT aplikací a nástrojů?</otazka>
+        <otazka>Integrace IT. Jaké jsou cíle, základní principy systémové integrace?</otazka>
+        <otazka>Jaké jsou úrovně integrace v IS?</otazka>
+        <otazka>Jaké jsou problémy spojené se systémovou integrací?</otazka>
+        <otazka>Co je podstatou podnikové analytiky a specificky business intelligence?</otazka>
+        <otazka>Kde jsou hlavní problémy spojené s řešení úloh business intelligence?</otazka>
+        <otazka>Jaký je problém spojený s kooperací s uživateli v BI?</otazka>
+        <otazka>Podnikové informační systémy, co je podstatou a obsahem?</otazka>
+        <otazka>Jaké jsou klíčové typy aplikací v podnikové informatice?</otazka>
+        <otazka>Jaké jsou hlavní problémy spojené s řešením aplikací podnikové informatiky?</otazka>
+        <otazka>Jaké jsou problémy řešení a provozu eShopu?</otazka>
+        <otazka>Jaké jsou aplikace orientované na externí vztahy?</otazka>
+        <otazka>Modelování podnikových systémů, jaké jsou hlavní principy?</otazka>
+        <otazka>Kde jsou klíčové problémy s modelováním podnikových procesů?</otazka>
+        <otazka>Co je principem datových modelů?</otazka>
+        <otazka>Jakými znalostmi musí být vybaven analytik pro modelování informačních systémů?</otazka>
+        <otazka>Řízení projektů IS/ICT, jaký je obsah a funkce?</otazka>
+        <otazka>Jaké jsou hlavní modely uplatňované v řízení projektů?</otazka>
+        <otazka>Jaké jsou aktuální hlavní problémy řízení projektů?</otazka>
+        <otazka>Řízení informatiky a podpora byznysu, jaké jsou hlavní problémy v řízení IT?</otazka>
+        <otazka>Co se rozumí termínem business – IT aligment?</otazka>
+        <otazka>Jaké jsou možnosti a příklady podpory byznysu z pohledu IT?</otazka>
+        <otazka>Co by mělo být jako znalostní základ analytika při tvorbě aplikací IT?</otazka>
+        <otazka>Modelování podnikových systémů, podstata, problémy</otazka>
+        <otazka>Jaké jsou problémy spojené s modelováním procesů?</otazka>
+        <otazka>Jaké jsou principy a problémy datového modelování?</otazka>
+        <otazka>Řízení informatiky, jaký je obsah a hlavní principy?</otazka>
+        <otazka>Lze shrnout hlavní efekty navrhovaného řešení?</otazka>
+        <otazka>Co je obsahem IT ekonomiky?</otazka>
+        <otazka>Business intelligence, jaké jsou hlavní principy a problémy analytických úloh?</otazka>
+        <otazka>Co se rozumí konsolidaci dat?</otazka>
+        <otazka>Jaké jsou rozdíly mezi BI a SBI?</otazka>
+        <otazka>Základní charakteristiky firmy působící na trhu IS/CT?</otazka>
+        <otazka>Specifické nároky na řízení informatické firmy?</otazka>
+        <otazka>Jaké jsou hlavní problémy v analýze a modelování procesů?</otazka>
+        <otazka>Integrace v informačních systémech, principy, problémy?</otazka>
+        <otazka>Jaké jsou různé možnosti integrace apllikací v IS?</otazka>
+        <otazka>Co je systémová integrace?</otazka>
+    </komisar>
+    <komisar jmeno="Sudzina František" tituly="Mgr. et Mgr. Ing., Ph.D.">
+        <otazka>Jaké jsou problémy s kvalitou dat?</otazka>
+        <otazka>Jaký druh databází byste použil pro ukládání informací předcházejících dopravní nehodě?</otazka>
+        <otazka>Jaká existují šifrování?</otazka>
+        <otazka>Jaké protokoly se používají na síťové vrstvě?</otazka>
+        <otazka>Co je SSH a jak se využívá?</otazka>
+        <otazka>V čem je rozdíl u supervised a unsupervised training?</otazka>
+        <otazka>Řízení kvality vývoj SW (testování).</otazka>
+        <otazka>Ukládání a vyhledávání textových informace, co byste o tom mohl říci a jak to souvisí s tématem Vaší práce?</otazka>
+        <otazka>Jaké budou rozdíly v uplatňování šifrování?</otazka>
+        <otazka>Jaké modely lze použít pro datové modelování?</otazka>
+        <otazka>Jaké typy/klasifikaci požadavků na SW znáte?</otazka>
+        <otazka>Co je to prototyp?</otazka>
+        <otazka>V čem spočívá rozdil mezi TCP a UDP?</otazka>
+        <otazka>Co jsou to regulární výrazy?</otazka>
+        <otazka>Co je API v řešení aplikací?</otazka>
+        <otazka>Co je TCP a UDP?</otazka>
+        <otazka>Jaké jsou metodiky řízení kvality software?</otazka>
+        <otazka>Jaká je podstata řízení testy?</otazka>
+        <otazka>Jaké jsou návrhové vzory pro řešení software?</otazka>
+        <otazka>Na které vrstvě ISO OSI modelu jsou TCP a UDP?</otazka>
+        <otazka>Jaké jsou výhody využití databází v porovnání s tabulkami např. v Excelu?</otazka>
+        <otazka>V čem se liší protokoly TCP a UDP a na jaké vrstvě ISO/OSI modelu se nacházejí?</otazka>
+    </komisar>
+    <komisar jmeno="Vojíř Stanislav" tituly="Ing. et Ing., Ph.D.">
+        <otazka>Jaké jsou protokoly na aplikační úrovni sítí?</otazka>
+        <otazka>Co je podstatou digitálního podpisu, jaké jsou certifikační autority?</otazka>
+        <otazka>Jaké zdroje se generativní AI učí? Jsou nějaké regulace týkající se zpracování soukromých dokumentů uživatelů pomocí AI?</otazka>
+        <otazka>Co je to "právo na zapomenutí" a jak funguje?</otazka>
+        <otazka>Jak funguje sledování uživatelů na internetu?</otazka>
+        <otazka>Znáte nějaké nástroje pro bezpečnější pohyb na internetu?</otazka>
+        <otazka>Co je to VPN?</otazka>
+        <otazka>Jak funguje spojení mezi vaším serverem a VPN z hlediska bezpečnosti?</otazka>
+        <otazka>Jaké jsou možnosti ověření uživatele při přihlašování k VPN serveru?</otazka>
+        <otazka>Jak fungují certifikáty? Jak lze získat certifikát?</otazka>
+        <otazka>Jakým způsobem se dá zkoumat návštěvnost diskuzních fór na webu? Co sleduje Google Analytics? Jakým způsobem Google Analytics sleduje uživatele? Jak se pozná, že jde o konkrétního uživatele?</otazka>
+        <otazka>Pokud vyvíjíte pro mobilní zařízení — jaké jsou výhody implementace v podobě nativní aplikace oproti webové či hybridní podobě?</otazka>
+        <otazka>Jazykové modely jsou jedním z typů použití Al. Znáte nějaké jiné modely patřící do oblasti Al / strojového učení?</otazka>
+        <otazka>Mohl byste uvést nějaký konkrétní problém řešitelný pomocí stromů?</otazka>
+    </komisar>
+    <komisar jmeno="Buchalcevová Alena" tituly="prof. Ing., Ph.D.">
+        <otazka>Vy jste se zaměřil na vizualizací při analýze dat. Jak je to s vizualizací pří vývoji SW? Máme nějaké nástroje pro vizualizaci při objektově orientovaném vývoji? (UML modelování)</otazka>
+        <otazka>Jaké typy testů softwaru znáte?</otazka>
+        <otazka>Jaké znáte metodiky pro vývoj aplikací, jaká jsou kritéria pro výběr vhodné metodiky?</otazka>
+        <otazka>Co je to vývoj řízený testy?</otazka>
+        <otazka>Jak lze dokumentovat architekturu sofwarové aplikace?</otazka>
+        <otazka>Jaké jsou typy testů?</otazka>
+        <otazka>Jak by bylo možné graficky dokumentovat zkoumanou aplikaci?</otazka>
+        <otazka>Můžete porovnat metodiku CRISP-DM s vybranými metodikami vývoje SW?</otazka>
+        <otazka>Jak je třeba stávající metodiky vývoje softwaru upravit, pokud se vyvíjí aplikace využívající LLM?</otazka>
+    </komisar>
+    <komisar jmeno="Sedláček Jiří" tituly="Ing., Ph.D.">
+        <otazka>Jak probíhá šifrování zpráv?</otazka>
+        <otazka>Správa licencí (OSS i komerční) ve velké společnosti. Základní způsoby platby za komerční software.</otazka>
+        <otazka>Jaká je ochrana zvlášť citlivých dat v různých fázích (přenos, archivace atd.)? Co je forward secrecy?</otazka>
+        <otazka>Jaké znáte formáty pro ukládání dat, která se vyskytují na webu? Porovnejte vybrané formáty.</otazka>
+        <otazka>Jaké třídy složitosti algoritmů rozlišujete?</otazka>
+        <otazka>Jakým způsobem může firma posuzovat cloudová řešení? Jaké jsou možnosti způsobů placení.</otazka>
+        <otazka>Jaké jsou rozdíly mezi cloudovými a on--premise řešeními? Jak jsou cloudová řešení využívána v rámci malých účetních firem?</otazka>
+        <otazka>Z hlediska ukládání dat v cloudu - o co by se měla účetní firma zajímat?</otazka>
+        <otazka>Jaké regulace musí být splněny například v Evropě z hlediska ukládání citlivých dat?</otazka>
+        <otazka>Jaké jsou základní cíle kybernetické bezpečnosti</otazka>
+        <otazka>Jaké jsou základní typy útoků na hesla</otazka>
+        <otazka>Jaké jsou možnosti ochrany hesel</otazka>
+        <otazka>Jaké znáte způsoby/metodiky vývoje aplikací</otazka>
+        <otazka>Jaké jsou jejich výhody/nevýhody</otazka>
+        <otazka>Co způsobuje, že Al modely halucinují?</otazka>
+        <otazka>Jaké jsou základní principy klient server aplikace?</otazka>
+        <otazka>Jaké znáte konkrétní nástroje na klientské straně?</otazka>
+        <otazka>Jaké znáte konkrétní nástroje na straně serveru?</otazka>
+        <otazka>Co je tenký a tlustý klient?</otazka>
+        <otazka>Co jsou to proximitní operátory?</otazka>
+        <otazka>Jak se řeší skloňování při vyhledávání?</otazka>
+        <otazka>Jakou třídou složitosti byste označila algoritmus použitý v práci? Jaké další třídy složitosti rozeznáváme?</otazka>
+        <otazka>Jaké bezpečnostní otázky musíte řešit při vývoji webové aplikace? A jak je řešit? Jaké HTTP hlavičky pomohou zvýšit bezpečnost komunikace? Co je to HSTS a CSP?</otazka>
+        <otazka>Jaké typy útoků jsou časté při dotazování databází přes webové skriptovací jazyky? Jak se jim bránit?</otazka>
+    </komisar>
+    <komisar jmeno="Maryška Miloš" tituly="doc. Ing., Ph.D.">
+        <otazka>Jaké jsou základní principy SW testování?</otazka>
+        <otazka>Jaké roziišujete projektové a vývojové metodiky?</otazka>
+        <otazka>Jaké znáte metody testování?</otazka>
+        <otazka>Budou se lišit metody testování podle toho co testujete?</otazka>
+        <otazka>Jaké projektové metodiky by jste využil pro implementaci vašeho řešení?</otazka>
+        <otazka>Kdyby jste měl využít MVC pro vývoj vašeho řešení, jak by tento vývoj probíhal?</otazka>
+        <otazka>Je nějaký rozdíl mezi reportem a dashboardem?</otazka>
+        <otazka>Jak by jste přistoupil k implementaci reportingu v bance?</otazka>
+        <otazka>Popište architekturu datově orientovaného řešení.</otazka>
+        <otazka>Jaké znáte další modely?</otazka>
+        <otazka>Jak by jste popsal architekturu vašeho řešení?</otazka>
+        <otazka>Jakým způsobem by jste zabezpečila vaši chytrou domácnost?</otazka>
+        <otazka>Co je to MVC?</otazka>
+    </komisar>
+    <komisar jmeno="Smutný Zdeněk" tituly="doc. Ing. Mgr., Ph.D.">
+        <otazka>Jak byste vymezil pojem znalost? Představte jak znalost ovlivňuje interpretaci dat na nějakém příkladu.</otazka>
+        <otazka>Představte nám FOR cyklus v rámci imperativního programování</otazka>
+        <otazka>Navrhněte use-case pro formáty CSV, XML, nebo JSON.</otazka>
+        <otazka>Co jsou to mashup aplikace? Jaké jsou výhody a nevýhody takových řešení v praxi?</otazka>
+        <otazka>Představte nám TCP/IP model. Na jaké vrstvě se přidává IP hlavička? Jaký je rozdíl mezi TCP a UDP protokoly?</otazka>
+    </komisar>
+    <komisar jmeno="Řepa Václav" tituly="prof. Ing., CSc.">
+        <otazka>Jaké je propojení IT a byznysu? Co znamená pojem digital transformation?</otazka>
+        <otazka>Najděte ve Vašem “relačním" modelu potenciální nedostatky (co nežádoucího model připouští). Jaké jsou možné přístupy k eliminaci takových nedostatků?</otazka>
+        <otazka>Jaké byste viděl možnosti využití umělé inteligence v oblasti bezpečnosti. Nejdříve charakterizujte oblast bezpečnosti informačních systémů. Na základě Vaší znalosti, byl by vhodný obecný ChatGPT, nebo by to chtělo nějaký specializovaný nástroj (problematika detekce škodlivých mailů).</otazka>
+        <otazka>Do čeho může účetní software přesahovat u větších firem?</otazka>
+        <otazka>Existuje standardní postup pro posuzování užitnosti ERP v širším kontextu? Či obecně pro jakýkoliv software podporující fungování firem?</otazka>
+        <otazka>Říká vám něco pojem podniková architektura? (enterprise architecture) Znáte pro ni nějaké standardy?</otazka>
+        <otazka>Co obnáší budování podnikových informačních systémů?</otazka>
+        <otazka>Jaké metody modelování pro podnikové informační systémy znáte?</otazka>
+        <otazka>Konceptuální či class diagramy - jaké znáte další typy diagramů užitečné při vývoji informačních systémů.</otazka>
+        <otazka>K čemu může být užitečný objektový diagram (na úrovni instancí)? Čím vás může "překvapit" oproti konceptuálnímu modelu?</otazka>
+        <otazka>Jaké metody pro systematickou analýzu údajů a vztahů mezi nimi znáte?</otazka>
+        <otazka>Jaké znáte typy modelování při vývoji informačního systému? V jaké fázi vývojového cyklu se používají?</otazka>
+        <otazka>Jaké má informační systém dimenze?</otazka>
+        <otazka>Jaký je rozdíl mezi datovým a procesním modelem?</otazka>
+        <otazka>Jaké architektury návrhu datového modelu znáte (princip 3 architektur)? Jaké nástroje by vám mohly pomoci? Jaké typy modelů znáte?</otazka>
+        <otazka>Jak jsou realizovány vztahy mezi entitami v relačních databázích?</otazka>
+        <otazka>Jak byste využil zkušenosti s fenoménem sociálních sítí v podnikovém informačním systému?</otazka>
+    </komisar>
+    <komisar jmeno="Zeman Václav" tituly="Ing., Ph.D.">
+        <otazka>Co je to publish-subscribe model? Co je to loose coupling?</otazka>
+        <otazka>Jaké jsou hashovací funkce?</otazka>
+        <otazka>Jaké jsou důvody pro hashovací funkce?</otazka>
+        <otazka>Jaké parametry musí splňovat hashovací funkce?</otazka>
+        <otazka>Způsob evaluace klasifikačních modelů</otazka>
+        <otazka>Popište protokol https, certifikát, digitální podpis</otazka>
+        <otazka>Zkuste popsat TLS protokol, jak funguje? Co o něm víte?</otazka>
+        <otazka>Jak lze hodnotit váhu trendů?</otazka>
+        <otazka>Kdy microservices architektura nemá smysl?</otazka>
+        <otazka>Jaký návrhový vzor používá Apache Kafka?</otazka>
+        <otazka>Jaké jsou hlavní principy UX designu?</otazka>
+        <otazka>Jaké jsou principy řešení prototypů?</otazka>
+        <otazka>Jaké jsou výhody mikroslužeb oproti monomitickým aplikacím?</otazka>
+        <otazka>Jak databáze zajistí konzistenci a integritu řešení?</otazka>
+    </komisar>
+    <komisar jmeno="Kliegr Tomáš" tituly="doc. Ing., Ph.D.">
+        <otazka>Jaký je cíl úlohy shlukování v rámci strojového učení? Jaké algoritmy pro shlukování znáte?</otazka>
+        <otazka>Jaké jsou aplikační možnosti pro využití asociačních pravidel v navržené aplikaci?</otazka>
+        <otazka>Jakým způsobem by bylo vhodné organizovat dokumenty, aby se v nich dalo strojově vyhledávat? Ukažte na příkladu transformaci dokumentu na vektor.</otazka>
+        <otazka>Co se rozumí dokumentovou frekvencí a co inverzní dokumentovou frekvencí?</otazka>
+        <otazka>Modely evaluace strojového učení - typy, charakteristika, principy, míry.</otazka>
+        <otazka>Co jsou asociační pravidla, jak jsou definovány míry podpora a spolehlivost?</otazka>
+        <otazka>Který typ modelu či algoritmu strojového učení dává podle vašeho názoru nejlepší predikce?</otazka>
+        <otazka>Jaké možnosti nabízí UML pro komunikaci softwaru vytvořeného v práci? Jak bude vypadat model případu užití? Jak bude vypadat model tříd?</otazka>
+        <otazka>Jaký je princip náhodných lesů?</otazka>
+        <otazka>Charakterizujte TF-IDF a vzdálenostní funkce pro vektorový prostor.</otazka>
+        <otazka>Co jsou to regulární výrazy, uveďte příklady.</otazka>
+        <otazka>Co je to JSON?</otazka>
+        <otazka>Vysvětlete, co to jsou rozhodovací stromy, uveďte příklady.</otazka>
+        <otazka>Jak funguje shlukování?</otazka>
+    </komisar>
+    <komisar jmeno="Potančok Martin" tituly="Ing., Ph.D.">
+        <otazka>Jak vypadá prostředí podnikových informačních systémů? Jaké trendy zde spatřujete?</otazka>
+    </komisar>
+    <komisar jmeno="Strossa Petr" tituly="doc. RNDr., CSc.">
+        <otazka>Používá se XML například v MS Office?</otazka>
+        <otazka>Co mají metody překladu společného s metodami indexování textu?</otazka>
+        <otazka>Jaký je význam klíčových slov? Jak je pro překlad důležitý kontext?</otazka>
+        <otazka>V čem se liší NoSQL od relačních databází?</otazka>
+        <otazka>Jaký je vyhledávací interface pro relační databáze?</otazka>
+        <otazka>K čemu slouží indexy v databázi?</otazka>
+        <otazka>Co lze z textových dat v přirozeném jazyce vytáhnout a jakým způsobem?</otazka>
+        <otazka>Jak lze zpracovávat textové dokumenty?</otazka>
+        <otazka>Jak se texty ukládají v textových databází? k čemu slouží textové databáze?</otazka>
+        <otazka>Jakým způsobem se textová data vyhledávají?</otazka>
+        <otazka>Problém se synonymy při vyhledávání?</otazka>
+        <otazka>Jak lze texty kategorizovat?</otazka>
+    </komisar>
+    <komisar jmeno="Kučera Jan" tituly="Ing., Ph.D.">
+        <otazka>Jak je možné při vývoji aplikace, jako je ta, kterou jste vytvářel v rámci bakalářské práce, využít modelování s využitím jazyka UML?</otazka>
+        <otazka>Znáte grafický prostředek, který se specificky používá pro konceptuální modelování?</otazka>
+    </komisar>
+    <komisar jmeno="Sládek Pavel" tituly="Ing., Ph.D.">
+        <otazka>Jaké jsou druhy databází a jak fungují?</otazka>
+        <otazka>Jaké existují regulace a frameworky upravující nastavení vztahu mezi business a IT složkou organizací?</otazka>
+        <otazka>K čemu se užívají veřejné klíče?</otazka>
+        <otazka>Co znamená hashovací funkce?</otazka>
+    </komisar>
+    <komisar jmeno="Chudán David" tituly="Ing., Ph.D.">
+        <otazka>Vysvětlete pojmy umělá inteligence, strojové učení, data science, data analytics. Související otázka - metodika CRISM-DM, jaké má fáze?</otazka>
+        <otazka>Jaké jsou aplikace umělé inteligence?</otazka>
+        <otazka>Jaké jsou možnosti dělení dat?</otazka>
+        <otazka>Jaké jsou formáty dat?</otazka>
+        <otazka>Jaké jsou možnosti analyzování dat?</otazka>
+        <otazka>Jak se typicky strukturovaná data ukládají? Jaké znáte typy databází?</otazka>
+        <otazka>Jaké znáte typy relací?</otazka>
+        <otazka>Jaké jsou další možnosti pro ukládání strukturovaných dat? Jaké jsou rozdíly mezi formáty csv, json a xml?</otazka>
+        <otazka>Jakým způsobem probíhá ukládání a vyhledávání textových informací? Co znamená přesnost a úplnost/kontextu vyhledávání textových informací?</otazka>
+        <otazka>Jaké základní webové technologie znáte?</otazka>
+    </komisar>
+    <komisar jmeno="Vencovský Filip" tituly="Ing., Ph.D.">
+        <otazka>V práci jste použil procesní modely v notaci EPC. Jaké další notace byste zvažoval? Jak se od sebe liší? Jakým způsobem se dají získat data pro modelování procesů?</otazka>
+    </komisar>
+    <komisar jmeno="Sigmund Tomáš" tituly="Mgr. Ing., Ph.D.">
+        <otazka>Jaké aspekty bezpečnosti je třeba sledovat?</otazka>
+        <otazka>Jaké prostředky lze využívat pro zajištění bezpečnosti dat?</otazka>
+        <otazka>Jaké jsou způsoby a jazyky modelování podnikových procesů?</otazka>
+        <otazka>Jaké jsou možnosti pořízení softwaru?</otazka>
+        <otazka>Jaké jsou právní a etické aspekty prediktivních úloh?</otazka>
+        <otazka>Jaké jsou problémy spojené s GDPR?</otazka>
+        <otazka>Řízení IT: Jaké jsou úrovně a oblasti řízení informačních systémů?</otazka>
+        <otazka>Jak by se dalo postupovat v zavádění systému na podporu rozhodování?</otazka>
+        <otazka>Jaké jsou zásady kvantitativního a kvalitativního výzkumu?</otazka>
+    </komisar>
+    <komisar jmeno="Dudáš Marek" tituly="Ing., Ph.D.">
+        <otazka>Jaké parametry ovlivňují velikost vzorku dat pro naučení? Představme si dataset o 5 atributech a 150 atributech a vliv na naučení?</otazka>
+        <otazka>Jaké protokoly se používají na internetu a jaké vrstvy se používají a na jakých fungují chytré domácnosti?</otazka>
+        <otazka>Jaká je základní struktura hlavičky síťového paketu?</otazka>
+        <otazka>Jaké jsou další možnosti autentizace?</otazka>
+        <otazka>Na jakém principu fungují certifikáty?</otazka>
+        <otazka>Jaká technika strojového učení by se dala použít pro klasifikace her?</otazka>
+        <otazka>Jaké informace by byly použity pro souřadnice vektorů?</otazka>
+    </komisar>
+    <komisar jmeno="Basl Josef" tituly="prof. Ing., CSc.">
+        <otazka>Jaká jsou kritéria optimalizace v rámci podnikových IS?</otazka>
+        <otazka>Jaké jsou přínosy podnikových informačních systémů, jak je lze kategorizovat?</otazka>
+        <otazka>Jaké jsou kyberbezpečnostní trendy v ASW oblastech podnikového IS?</otazka>
+        <otazka>Jaké jsou hlavní aplikace v podnikovém IS?</otazka>
+    </komisar>
+    <komisar jmeno="Zamazal Ondřej" tituly="doc. Ing., Ph.D.">
+        <otazka>Jaké typy úloh strojového učení byste mohl aplikovat na data z bakalářské práce?</otazka>
+        <otazka>Jak vypadá síťová komunikace před zobrazením webové aplikace?</otazka>
+    </komisar>
+    <komisar jmeno="Zimmermann Pavel" tituly="Ing., Ph.D.">
+        <otazka>Statistické hypotézy, statistická významnost testů.</otazka>
+        <otazka>Jaké metody strojového učení znáte a uveďte příklad, jak byste využil ve Vaší aplikaci?</otazka>
+        <otazka>Jak probíhá řízení kvality při vývoji SW?</otazka>
+        <otazka>Jakým způsobem by mohlo strojové učení podpořit Vaši aplikaci (ve smyslu úloh)?</otazka>
+        <otazka>Jaké zásady bezpečného vývoje aplikací znáte?</otazka>
+        <otazka>Jak lze přistoupit k propojení IT a businessu?</otazka>
+        <otazka>Agregovaná data, dimenze a metriky - Příklady implementace.</otazka>
+    </komisar>
+    <komisar jmeno="Zbořil Martin" tituly="Ing. Mgr., Ph.D.">
+        <otazka>Co je to kvalita dat a jak se měří?</otazka>
+        <otazka>Co je nutné učinit, aby data byla řádně zabezpečena?</otazka>
+        <otazka>Jaká jsou bezpečnostní rizika webových aplikací?</otazka>
+        <otazka>Co je to data mining a jaké jsou jeho aplikace?</otazka>
+        <otazka>Jaké jsou techniky pro ukládání textových informací?</otazka>
+    </komisar>
+    <komisar jmeno="Máša Petr" tituly="RNDr. Ing., Ph.D.">
+        <otazka>Vjakých zemích jsou nejvíce rozdílná úprava GDPR?</otazka>
+        <otazka>Jaký je rozdíl mezi kauzalitou a korelací?</otazka>
+        <otazka>Jaké budou problémy aplikace vysoce náročné na data, jak řešit v tomto případě řešení databáze?</otazka>
+        <otazka>Co se rozumí principem 3NF?</otazka>
+        <otazka>Jaké aplikace by se daly doporučit pro realizaci dané aplikace?</otazka>
+    </komisar>
+    <komisar jmeno="Sklenák Vilém" tituly="doc. Ing., CSc.">
+        <otazka>Do jaké míry jsou nebezpeční chatboti?</otazka>
+        <otazka>Jak byste doporučil postupovat při ověření důvěryhodnosti chatbotů?</otazka>
+        <otazka>Co je to kryptografie?</otazka>
+        <otazka>Jaké znáte metody šifrování?</otazka>
+        <otazka>Znáte nějakou typologii informačních zdrojů z hlediska informační vědy?</otazka>
+        <otazka>Uveďte příklady pro primární a sekundární zdroje.</otazka>
+        <otazka>Jakým způsobem se zpracovávají full texty? Co je to index a jak se staví? Jaký typ vyhledávání se ve fulltextu obvykle používá?</otazka>
+        <otazka>Z hlediska vyhodnocování se používají ukazatele úplnost a přesnost. Co to znamená?</otazka>
+        <otazka>U každého operátoru, AND, OR a NOT řekněte, zda podporuje přesnost, nebo úplnost</otazka>
+    </komisar>
+    <komisar jmeno="Pecinovský Rudolf" tituly="Ing., CSc.">
+        <otazka>Proč se mechanismu dědičnosti tříd říká právě dědění? Jaký je rozdíl mezi nominálním a strukturálním děděním?</otazka>
+    </komisar>
+    <komisar jmeno="Vadinský Ondřej" tituly="Ing., Ph.D.">
+        <otazka>Co je to klasifikační úloha strojového učení a jaké vhodné metody znáte?</otazka>
+        <otazka>V čem spočívá rozdil mezi rozhodovacími stromy a neuronovými sítěmi?</otazka>
+        <otazka>Jaké úlohy dobývání znalostí znáte a v čem se liší?</otazka>
+        <otazka>Jaké typy modelů pro klasifikační úlohu?</otazka>
+        <otazka>Vysvětlete shlukování?</otazka>
+        <otazka>Co je to explorativní úloha ve strojovém učení?</otazka>
+        <otazka>Jaké metody strojového učení by vám mohly pomoct s vyhodnocením výsledků (rozsáhlejšího) dotazníkového šetření?</otazka>
+        <otazka>V čem spočívá rozdíl mezi stromy a neuronovými sítěmi při klasifikační úloze?</otazka>
+    </komisar>
+    <komisar jmeno="Bruckner Tomáš" tituly="Ing., Ph.D.">
+        <otazka>Pomáhají nějaké modely, diagramy podniku a auditu či řízení rizik? Jaké modely znáte, vyberte nějaký typ modelu?</otazka>
+        <otazka>Pokud je nesoulad mezi modelovaným procesem, implementací ERP a skutečným průběhem, jak byste postupoval při zkoumání vzájemného souladu?</otazka>
+        <otazka>Co dělá ERP? Co je to za typ systému, jaká je funkcionalita ERP?</otazka>
+        <otazka>Jak ERP souvisi s microservices architekturou?</otazka>
+        <otazka>Co si představíte pod Low Code / No Code platformou? Jak to souvisí s ERP?</otazka>
+        <otazka>Jaké společnosti se zabývají sledováním trendů v ERP?</otazka>
+        <otazka>Co znamená orchestrace microservices?</otazka>
+    </komisar>
+    <komisar jmeno="Švarc Lukáš" tituly="Ing., Ph.D.">
+        <otazka>Jaké jsou protokoly ve vazbě s API?</otazka>
+        <otazka>Na základě čeho se realizuje šifrování dat?</otazka>
+        <otazka>Co je podstatou protokolu http a https? Jak tam funguje certifikát?</otazka>
+        <otazka>Co je podstatou protokolu http a https?</otazka>
+        <otazka>Co je podstatou protokolu DNS?</otazka>
+    </komisar>
+    <komisar jmeno="Novotný Ota" tituly="doc. Ing., Ph.D.">
+        <otazka>Jak se vaše práce propojuje s tématem softwarového inženýrství?</otazka>
+    </komisar>
+    <komisar jmeno="Pavlíček  Antonín" tituly="Ing. PhDr., Ph.D.">
+        <otazka>Co je to hashovací funkce? K čemu slouží?</otazka>
+    </komisar>
+    <komisar jmeno="Richard Antonín Novák" tituly="Ing., Ph.D.">
+        <otazka>Formulujte podstatné fáze životního cyklu vývoje softwaru.</otazka>
+        <otazka>Má na vnímání SDLC vliv agilních přístupů k vývoji softwaru?</otazka>
+        <otazka>Jaké existují metodiky vývoje sofwaru a pro řízení softwarových projektů? Mohl byste se detailněji věnovat některému z agilních přístupů?</otazka>
+        <otazka>Existuje nějaký rozdíl mezi testování SW a zajištěním kvality SW?</otazka>
+        <otazka>Existují nějaké formální notace popisu podnikových procesů?</otazka>
+        <otazka>V čem se notace popisu podnikových procesů odlišují?</otazka>
+        <otazka>Která z notací popisu podnikových procesů je vhodnější pro formulaci zadání pro programátory?</otazka>
+        <otazka>Vysvětlete pojem "overfitting".</otazka>
+    </komisar>
+    <komisar jmeno="Libor Gála" tituly="Ing., Ph.D.">
+        <otazka>Na co reagují agilní přístupy k vývoji software?</otazka>
+        <otazka>Existují nějaké standardy upravující oblast aplikace Al v informatice?</otazka>
+        <otazka>Formulujte pro jednotlivé fáze životního cyklu webové aplikace potenciál použití umělé inteligence.</otazka>
+        <otazka>Existují nějaké standardy nebo právní normy upravující oblast aplikace Al v informatice?</otazka>
+    </komisar>
+    <komisar jmeno="Lucie Rožmberská" tituly="Ing., Ph.D.">
+        <otazka>Jaké jsou bezpečnostní normy v bankovnictví?</otazka>
+        <otazka>Co je bezpečnostní audit? Jaký je jeho obsah?</otazka>
+        <otazka>Jaké jsou klíčové aspekty informační bezpečnosti?</otazka>
+        <otazka>Co je podstatou auditu, jak se provádí?</otazka>
+        <otazka>Jak se liší AI a strojové učení?</otazka>
+        <otazka>Jaké jsou ERP s AI?</otazka>
+        <otazka>Co je podstatou RPA?</otazka>
+        <otazka>Co se rozumí metodikou ITIL?</otazka>
+        <otazka>Co představuje SLA?</otazka>
+    </komisar>
+    <komisar jmeno="Karkošková Soňa" tituly="Ing. et Ing., Ph.D.">
+        <otazka>Jak byste identifikoval/počítal přidanou hodnotu Al pro business?</otazka>
+        <otazka>Jak byste definoval Al strategii pro firmu?</otazka>
+        <otazka>Role Al v Business intelligence.</otazka>
+        <otazka>Co to je markdown - markdown jako datový formát</otazka>
+    </komisar>
+
+    <!-- OTAZKY BEZ URČITÉHO KOMISAŘE -->
+    <komise>
+        <komisar jmeno="Zamazal Ondřej" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Karkošková Soňa" tituly="Ing. et Ing., Ph.D." />
+        <komisar jmeno="Hološka Jiří" tituly="Ing., Ph.D." />
+        <otazka>K čemu jsou obecně datové formáty? Jaké znáte datové formáty? Jejich stručná charakteristiky a srovnání.</otazka>
+        <otazka>Jaké znáte normální formy? Jsou jádro datového skladu a data marty normalizované a denormalizované?</otazka>
+        <otazka>Jaký je účel datového skladu? Jakým způsobem jsou byznysu dodávané výstupy analytických dat z datového skladu?</otazka>
+        <otazka>Jaké znáte metodiky pro řízení IT? Jaký je rozdíl mezi governance a managementem?</otazka>
+        <otazka>Popište ITSM a metodiku ITIL. Co si představíte jako IT službu? Jmenujte příklad IT služby. Popište životní cyklus IT služby. Do jaké fáze životního cyklu služby byste zařadil incident management?</otazka>
+        <otazka>Jaký je vztah mezi business intelligence a data mining / strojové učení?</otazka>
+        <otazka>Jakým způsobem jsou definovány smluvní podmínky pro poskytování služeb v rámcí ITIL.</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Sládek Pavel" tituly="Ing., Ph.D." />
+        <komisar jmeno="Chudán David" tituly="Ing., Ph.D." />
+        <komisar jmeno="Svatá Vlasta" tituly="doc. Ing., CSc." />
+        <otazka>ERP podnikové systémy, základní funkce, možnosti pro funkcionalitu založenou na generativní Al.</otazka>
+        <otazka>Modely dodávky služeb ERP, způsob nasazení ERP v prostředí organizace, cloud vs on-premise.</otazka>
+        <otazka>Řízení informatiky, IT governance, ITIL Finanční řízení IT, plánování, rozpočtování Umělá inteligence, aplikace umělé intelligence</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Vojíř Stanislav" tituly="Ing. et Ing., Ph.D." />
+        <komisar jmeno="Pour Jan" tituly="doc. Ing., CSc." />
+        <komisar jmeno="Sudzina František" tituly="Mgr. et Mgr. Ing., Ph.D." />
+        <otazka>Řízení projektů IS/ICT, obsah, principy, problémy?</otazka>
+        <otazka>Metodiky řízení projektů (např. PMBOK, PRINCE2), principy, omezení?</otazka>
+        <otazka>Jaké jsou výhody a nevýhody rigorozních a agilních metodik?</otazka>
+        <otazka>Jaké jsou příklady projektů s rigorozní metodikou?</otazka>
+        <otazka>Jaké je zapojení koncových uživatelů?</otazka>
+        <otazka>Co jsou návrhové vzory, jaký je jejich účel?</otazka>
+        <otazka>Jaké jsou kvalifikační nároky na projektového manažera?</otazka>
+        <otazka>Jaké jsou výhody a nevýhody NoSOL databází?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Svátek Vojtěch" tituly="prof. Ing., Dr." />
+        <komisar jmeno="Chlapek Dušan" tituly="Ing., Ph.D." />
+        <komisar jmeno="Zbořil Martin" tituly="Ing. Mgr., Ph.D." />
+        <otazka>Co je to data mining a k čemu slouží? Jak se liší od strojového učení</otazka>
+        <otazka>Jaké jsou hlavní typy strojového učení a kde se používají?</otazka>
+        <otazka>Jak lze v řídit kvalitu při vývoje softwaru?</otazka>
+        <otazka>Jaké znáte návrhové vzory a k čemu se používají?</otazka>
+        <otazka>Jaký by měl být správný postup analýzy, návrhu a realizace databáze?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Buchalcevová Alena" tituly="prof. Ing., Ph.D." />
+        <komisar jmeno="Sedláček Jiří" tituly="Ing., Ph.D." />
+        <komisar jmeno="Strnad Pavel" tituly="Ing., Ph.D." />
+        <otazka>Co byste řekl k řízení kvality při vývoji SW?</otazka>
+        <otazka>Jaké znáte typy strojového učení a který algoritmus byste si vybral jako alternativu pro Vaše řešení?</otazka>
+        <otazka>Obecné srovnání formátů CSV, XML, JSON (výhody, nevýhody, na co ne/vhodné). Jiné formáty dat.</otazka>
+        <otazka>Jaké notace pro modelování by se daly použít v oblasti projektů inteligentní mobility?</otazka>
+        <otazka>Stručně charakterizujte základní druhy kybernetických útoků a jejich možné členění na typy (do skupin). Poté podrobněji popište např. druhy útoků na hesla</otazka>
+        <otazka>Jakým způsobem je možné dosáhnout anonymity na internetu, jaké nástroje byste použil?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Maryška Miloš" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Sudzina František" tituly="Mgr. et Mgr. Ing., Ph.D." />
+        <komisar jmeno="Strnad Pavel" tituly="Ing., Ph.D." />
+        <otazka>Jakým způsobem byste řešení implementoval na průmyslovém měřítku?</otazka>
+        <otazka>Jaké další senzory lze využít k detekci kvality tištěného modelu?</otazka>
+        <otazka>Jakým způsobem byste zabezpečil takovou infrastrukturu?</otazka>
+        <otazka>V případě, že byste jako útočník získal přístup do takové infrastruktury, co by mohlo být vaším cílem?</otazka>
+        <otazka>Jaké jsou možnosti na monetizaci implementovaného řešení?</otazka>
+        <otazka>Jakou vývojovou metodiku byste využil pokud byste měl implementovat takovou aplikaci?</otazka>
+        <otazka>Co je to MVC?</otazka>
+        <otazka>Jakou projektové metodiky byste využil při implementaci?</otazka>
+        <otazka>Jak funguje certifikační autorita u HTTPS a je možné certifikát zfalšovat?</otazka>
+        <otazka>Jaký je rozdíl mezi prototypem a mockup?</otazka>
+        <otazka>Co jsou to neuronové sítě a jak se to vztahuje k ChatGPT?</otazka>
+        <otazka>Popište učení s učitelem a bez učitele.</otazka>
+        <otazka>Datové modelování a jeho vrstvy.</otazka>
+        <otazka>Co je normalizace a denormalizace dat?</otazka>
+        <otazka>Kdy je lepší učení s učitelem a bez učitele v konkrétních příkladech?</otazka>
+        <otazka>Jste v roli PM a máte odřídit projekt implementace data mining řešení.</otazka>
+        <otazka>Jakými způsoby můžete navrhnout/vyvinout aplikaci aco tojsou návrhové vzory?</otazka>
+        <otazka>Jaká vnímáte rizika a přínosy 5G technologií?</otazka>
+        <otazka>Jak byste monetizoval výstupy vaší práce?</otazka>
+        <otazka>Jaké formy šifrování komunikace znáte?</otazka>
+        <otazka>Výhody a nevýhody IPV4 a IPV6</otazka>
+        <otazka>Co je MVC, třívrstvá architektura</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Maryška Miloš" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Vojíř Stanislav" tituly="Ing. et Ing., Ph.D." />
+        <komisar jmeno="Sigmund Tomáš" tituly="Mgr. Ing., Ph.D." />
+        <otazka>Jaké protokoly vaše aplikace používá? Jak funguje HTTPS?</otazka>
+        <otazka>Používáte HTTP protokol, jakou verzi a jak se verze liší?</otazka>
+        <otazka>V čem se liší verze HTTP 3 od předchozích a na jaké vrstvě běží HTTP 2?</otazka>
+        <otazka>Jaké výhody má UDP oproti HTTP?</otazka>
+        <otazka>Co je vodopádový vývojový model?</otazka>
+        <otazka>Co jsou to návrhové vzory a jak mohou pomoci ve vývoji vašeho řešení. MVC</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Řepa Václav" tituly="prof. Ing., CSc." />
+        <komisar jmeno="Smutný Zdeněk" tituly="doc. Ing. Mgr., Ph.D." />
+        <komisar jmeno="Strossa Petr" tituly="doc. RNDr., CSc." />
+        <otazka>Zabýváte se službami poskytovanými přes internet, mohl byste představit architekturu TCP/IP?</otazka>
+        <otazka>Jaký je rozdíl mezi protokoly TCP a UDP a na jaké vrstvě jsou v architektuře TCP/IP použity?</otazka>
+        <otazka>Pro inovaci pojetí jakých typů informačních systémů mohou být poznatky z Vaší práce inspirací?</otazka>
+        <otazka>Jakým způsobem Ize inovovat komplexní informační systém oproti tradičnímu jeho pojetí jako souhrnu typových a specializovaných funkčních celků?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Kliegr Tomáš" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Potančok Martin" tituly="Ing., Ph.D." />
+        <komisar jmeno="Sedláček Jiří" tituly="Ing., Ph.D." />
+        <otazka>V práci jste použil formát CSV. Uveďte a srovnejte další základní textové formáty, případně i jiné typy formátů.</otazka>
+        <otazka>Popište asociační pravidla a způsob jejich generování.</otazka>
+        <otazka>Jaké jsou klíčové oblasti IT Managementu?</otazka>
+        <otazka>Na co reaguje ITIL 4 a jaké jsou rozdíly vůči ITIL 3?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Strossa Petr" tituly="doc. RNDr., CSc." />
+        <komisar jmeno="Sedláček Jiří" tituly="Ing., Ph.D." />
+        <komisar jmeno="Kučera Jan" tituly="Ing., Ph.D." />
+        <otazka>Jaké mohou být důvody pro využití XML v databázích?</otazka>
+        <otazka>Jaký je vztah mezi pojmy entitní množina a relační tabulka?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Zamazal Ondřej" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Doležel Michal" tituly="Ing. et Ing., Ph.D." />
+        <komisar jmeno="Smutný Zdeněk" tituly="doc. Ing. Mgr., Ph.D." />
+        <otazka>Jak vypadá testování modelů strojového učení?</otazka>
+        <otazka>Jaké znáte způsoby (formy) zápisu požadavků v oblasti softwarového inženýrství?</otazka>
+        <otazka>Je rozdíl mezi agilními a tradičními projekty?</otazka>
+        <otazka>Problém granularity user stories ve vazbě na user stories uvedené v bakalářské práci.</otazka>
+        <otazka>Pokud byste měla firmu zabývající se výzkumem, jak byste modelovala proces zajišťující provedení dotazníkového výzkumu?</otazka>
+        <otazka>K čemu jsou metriky z procesního pohledu?</otazka>
+        <otazka>Co můžete v rámci procesu měnit, abyste mohla proces vylepšovat?</otazka>
+        <otazka>Co se děje při zadání adresy do prohlížeče z hlediska internetu?</otazka>
+        <otazka>Jaký je rozdíl mezi kvantitativním a kvalitativním výzkumem? Představte vybrené metody u každého z těchto výzkumných přístupů. Jaký je rozdíl mezi indukcí a dedukcí?</otazka>
+        <otazka>Jaké manažerské nástroje pro oblast IT governance (příp. řízení podnikové informatiky) znáte? Jaký je jejich potenciál uplatnění v oblasti zdravotní péče? Souvislost s architekturami IS, typy architektur. Jaké typy požadavků znáte?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Řepa Václav" tituly="prof. Ing., CSc." />
+        <komisar jmeno="Chudán David" tituly="Ing., Ph.D." />
+        <komisar jmeno="Sudzina František" tituly="Mgr. et Mgr. Ing., Ph.D." />
+        <otazka>Strojové učení - jaké jsou kategorie a jaké znáte metody?</otazka>
+        <otazka>Asociační pravidla, jak jsou tvořena, můžete dát příklad?</otazka>
+        <otazka>Business model - sportovní klub, který prodává fanouškům různé produkty. Tato firma by měla CRM system. Jak by se dala analýza sentimentu použít v rámci CRM?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Svatá Vlasta" tituly="doc. Ing., CSc." />
+        <komisar jmeno="Máša Petr" tituly="RNDr. Ing., Ph.D." />
+        <komisar jmeno="Šedivá Zuzana" tituly="Ing., Ph.D." />
+        <otazka>Způsoby řešení rizika úniku dat z aplikace</otazka>
+        <otazka>Jak se definuje informační bezpečnost a jak jsou řešeny jednotlivé součásti informační bezpečnosti ve vaší aplikaci?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Buchalcevová Alena" tituly="prof. Ing., Ph.D." />
+        <komisar jmeno="Pavlíček  Antonín" tituly="Ing. PhDr., Ph.D." />
+        <komisar jmeno="Vadinský Ondřej" tituly="Ing., Ph.D." />
+        <otazka>Softwarové inženýrství: V práci popisujte slovně algoritmus kódu pro sběr doporučení. Jakými prostředky je možné algoritmus zapsat?</otazka>
+        <otazka>Bezpečnost: Jaké bezpečnostní hrozby se vyskytují na platformách typu YouTube? Jak se jim dá předcházet, případně je eliminovat?</otazka>
+        <otazka>Jak byste využil dobývání znalostí/strojové učení pro rozšíření vaší práce?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Pour Jan" tituly="doc. Ing., CSc." />
+        <komisar jmeno="Sudzina František" tituly="Mgr. et Mgr. Ing., Ph.D." />
+        <komisar jmeno="Zeman Václav" tituly="Ing., Ph.D." />
+        <otazka>Jaké jsou hlavní principy modelování v řešení IS?</otazka>
+        <otazka>Jak se dají klasifikovat metodiky řešení IS?</otazka>
+        <otazka>Jaké jsou rozdíly mezi rigorózními a agilními metodikami?</otazka>
+        <otazka>Jaké jsou problémy s řešením a užitím CRM systémů?</otazka>
+        <otazka>Jaký je princip metody Elastic Search?</otazka>
+        <otazka>Jaké jsou principy a problémy zajištění kvality software?</otazka>
+        <otazka>Coje podstatou mockup?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Zbořil Martin" tituly="Ing. Mgr., Ph.D." />
+        <komisar jmeno="Dudáš Marek" tituly="Ing., Ph.D." />
+        <komisar jmeno="Basl Josef" tituly="prof. Ing., CSc." />
+        <otazka>Jaké jsou obecně hlavní přínosy podnikových informačních systémů a které z nich by byly uplatnitelné V rámci tématu zpracovaného v kvalifikační</otazka>
+        <otazka>Jaká jsou bezpečnostní rizika webových aplikací</otazka>
+        <otazka>Jaké jsou protokoly k připojení k internetu</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Sklenák Vilém" tituly="doc. Ing., CSc." />
+        <komisar jmeno="Vojíř Stanislav" tituly="Ing. et Ing., Ph.D." />
+        <komisar jmeno="Palovský Radomír" tituly="RNDr., CSc." />
+        <otazka>Jaký programovací jazyk jsou na straně serveru?</otazka>
+        <otazka>Jaký redakční systém běžní na zpracovávaném Webu?</otazka>
+        <otazka>Jaké technologie jsou na straně klienta?</otazka>
+        <otazka>Jak javascript posílá data o činnosti v google analytics?</otazka>
+        <otazka>Jaké jsou typy databází? Příklady relačních databází.</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Vencovský Filip" tituly="Ing., Ph.D." />
+        <komisar jmeno="Kliegr Tomáš" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Sedláček Jiří" tituly="Ing., Ph.D." />
+        <otazka>Jaký protokol byste použil pro zabezpečení webové aplikace? Jak by se ukládala hesla?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Pour Jan" tituly="doc. Ing., CSc." />
+        <komisar jmeno="Máša Petr" tituly="RNDr. Ing., Ph.D." />
+        <komisar jmeno="Sigmund Tomáš" tituly="Mgr. Ing., Ph.D." />
+        <otazka>Coje obsahem podnikového informačního systému?</otazka>
+        <otazka>Jak se liší obsah IS vzhledem k charakteru byznysu?</otazka>
+        <otazka>Jaké jsou obvyklé problémy v řešení IS?</otazka>
+        <otazka>Jaký je obsah komunikace analytika s uživatelem?</otazka>
+        <otazka>U větších firem s více restauracemi, jaký bude přístup k řešení?</otazka>
+        <otazka>Jak získat data pro řešení a pomocí jakých technologií?</otazka>
+        <otazka>Jaké aplikace jako standard by bylo možné různým typům restaurací doporučit?</otazka>
+        <otazka>Jak lze zajistit bezpečnost dané aplikace?</otazka>
+        <otazka>Jaké jsou aktivity a problémy spojené s řešením BlI projektů?</otazka>
+        <otazka>Jaké jsou rozdíly v řešení transakčních aplikací a analytických aplikací?</otazka>
+        <otazka>Jaké jsou konkrétní problémy kvality dat?</otazka>
+        <otazka>V rámci řešené aplikace, jaké metody dobývání znalostí se dají využít?</otazka>
+        <otazka>Jaké jsou důvody pro nevyužívání možností dolování dat?</otazka>
+        <otazka>Kde by se navržená aplikace implementovala a jak?</otazka>
+        <otazka>Jak bude probíhat údržba systému?</otazka>
+        <otazka>Co bude obsahem smlouvy o údržbě systému?</otazka>
+        <otazka>Jak budou nastaveny podmínky pro zajištění údržby?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Maryška Miloš" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Dudáš Marek" tituly="Ing., Ph.D." />
+        <komisar jmeno="Sudzina František" tituly="Mgr. et Mgr. Ing., Ph.D." />
+        <otazka>Jaké byste identifikoval problémy a rizika generování velkých jazykových modeiu</otazka>
+        <otazka>Melody šiřrování a jejich využití v rámci GAI?</otazka>
+        <otazka>Metody testování?</otazka>
+        <otazka>Metodiky budování informačních systémů?</otazka>
+        <otazka>Co je TCP a UDP a k čemu slouží?</otazka>
+        <otazka>Proč se nepoužívá symetrická šifra při komunikaci?</otazka>
+        <otazka>Budou obrázky stahované přes HTTPS asymetricky šifrované?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Zamazal Ondřej" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Zbořil Martin" tituly="Ing. Mgr., Ph.D." />
+        <komisar jmeno="Zimmermann Pavel" tituly="Ing., Ph.D." />
+        <otazka>Jaké úlohy strojového učení bychom mohli realizovat s daty o používání mobilních aplikací?</otazka>
+        <otazka>Kvalita dat na příkladě Vaší práce.</otazka>
+    </komise>
+</statnice>

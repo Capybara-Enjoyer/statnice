@@ -11,21 +11,31 @@ jobs:
   xslt-transform:
     runs-on: ubuntu-latest
     steps:
-      - name: Install xsltproc
-        run: sudo apt-get update && sudo apt-get install -y xsltproc
-
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Run XSLT transformation
+      - name: Set up Java
+        uses: actions/setup-java@v4
+
+      - name: Use Saxon
+        with:
+          args: -s:statnice.xml -xsl:statnice.xslt -o:statnice.fo
+      
+      - name: Download Apache FOP
         run: |
-          xsltproc statnice.xslt statnice.xml > statnice-pdf.xml
+          curl -L -o fop-bin.tar.gz https://downloads.apache.org/xmlgraphics/fop/binaries/fop-2.9-bin.tar.gz
+          tar -xzf fop-bin.tar.gz
+          mv fop-2.9 fop
+
+      - name: Convert FO to PDF with FOP
+        run: |
+          ./fop/fop -fo statnice.fo -pdf statnice.pdf
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add statnice-pdf.xml
+          git add statnice.pdf
           git commit -m "Automated XSLT transformation"
           git push
         env:

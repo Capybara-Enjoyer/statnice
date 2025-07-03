@@ -37,7 +37,7 @@ jobs:
 
       - name: Use Saxon HE to transform XML to HTML
         run: |
-          java -cp "saxon-he.jar:xmlresolver.jar" net.sf.saxon.Transform -s:statnice.xml -xsl:statnice-html.xslt -o:statnice.html
+          java -cp "saxon-he.jar:xmlresolver.jar" net.sf.saxon.Transform -s:statnice.xml -xsl:statnice-html.xslt -o:page/statnice.html
 
       - name: Download Apache FOP
         run: |
@@ -47,7 +47,7 @@ jobs:
 
       - name: Convert FO to PDF with FOP
         run: |
-          ./fop/fop/fop -c fop.xconf -fo statnice.fo -pdf statnice.pdf
+          ./fop/fop/fop -c fop.xconf -fo statnice.fo -pdf page/statnice.pdf
 
       - name: Commit and push changes
         run: |

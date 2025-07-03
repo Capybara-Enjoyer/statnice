@@ -14,10 +14,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Java
-        uses: actions/setup-java@v4
-
       - name: Use Saxon
+        uses: pdaengeli/use-saxon-he-j@12.5
         with:
           args: -s:statnice.xml -xsl:statnice.xslt -o:statnice.fo
       

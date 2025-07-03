@@ -20,6 +20,10 @@ jobs:
           distribution: 'temurin'
           java-version: '21'
           java-package: 'jre'
+
+      - name: Download xmlresolver
+        run: |
+          curl -L -o xmlresolver.jar https://repo1.maven.org/maven2/org/xmlresolver/xmlresolver/6.0.18/xmlresolver-6.0.18.jar
         
       - name: Download Saxon HE 12.7
         run: |
@@ -27,7 +31,7 @@ jobs:
           
       - name: Use Saxon HE
         run: |
-          java -jar saxon-he.jar -s:statnice.xml -xsl:statnice.xslt -o:statnice.fo
+          java -cp "saxon-he.jar:xmlresolver.jar" net.sf.saxon.Transform -s:statnice.xml -xsl:statnice.xslt -o:statnice.fo
           
       - name: Download Apache FOP
         run: |

@@ -2,8 +2,10 @@
   <renderer mime="application/pdf">
     <fonts>
       <font kerning="yes" embed-url="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf">
-        <font-triplet name="DejaVu Sans" style="normal" weight="normal"/>
-        <font-triplet name="DejaVu Sans" style="normal" weight="bold"/>
+        <font-triplet name="DejaVu Sans" style="normal" weight="normal" />
+          <font-triplet name="DejaVu Sans" style="italic" weight="normal" />
+          <font-triplet name="DejaVu Sans" style="normal" weight="bold" />
+          <font-triplet name="DejaVu Sans" style="italic" weight="bold" />
       </font>
     </fonts>
   </renderer>

@@ -21,9 +21,9 @@ jobs:
       
       - name: Download Apache FOP
         run: |
-          curl -L -o fop-bin.tar.gz https://downloads.apache.org/xmlgraphics/fop/binaries/fop-2.9-bin.tar.gz
+          curl -L -o fop-bin.tar.gz https://downloads.apache.org/xmlgraphics/fop/binaries/fop-2.11-bin.tar.gz
           tar -xzf fop-bin.tar.gz
-          mv fop-2.9 fop
+          mv fop-2.11 fop
 
       - name: Convert FO to PDF with FOP
         run: |

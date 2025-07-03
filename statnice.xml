@@ -412,6 +412,7 @@
         <otazka>Co to je markdown - markdown jako datový formát</otazka>
     </komisar>
 
+
     <!-- OTAZKY BEZ URČITÉHO KOMISAŘE -->
     <komise>
         <komisar jmeno="Zamazal Ondřej" tituly="doc. Ing., Ph.D." />

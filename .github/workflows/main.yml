@@ -31,10 +31,14 @@ jobs:
         run: |
           curl -L -o saxon-he.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/12.7/Saxon-HE-12.7.jar
           
-      - name: Use Saxon HE
+      - name: Use Saxon HE to transform XML to FO
         run: |
           java -cp "saxon-he.jar:xmlresolver.jar" net.sf.saxon.Transform -s:statnice.xml -xsl:statnice.xslt -o:statnice.fo
-      
+
+      - name: Use Saxon HE to transform XML to HTML
+        run: |
+          java -cp "saxon-he.jar:xmlresolver.jar" net.sf.saxon.Transform -s:statnice.xml -xsl:statnice-html.xslt -o:statnice.html
+
       - name: Download Apache FOP
         run: |
           curl -L -o fop-bin.tar.gz https://downloads.apache.org/xmlgraphics/fop/binaries/fop-2.11-bin.tar.gz

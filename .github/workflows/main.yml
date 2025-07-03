@@ -14,11 +14,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Use Saxon
-        uses: pdaengeli/use-saxon-he-j@12.5
+      - name: Set up Java
+        uses: actions/setup-java@v4
         with:
-          args: -s:statnice.xml -xsl:statnice.xslt -o:statnice.fo
-      
+          distribution: 'temurin'
+          version: '21'
+          java-package: 'jre'
+        
+      - name: Download Saxon HE 12.7
+        run: |
+          curl -L -o saxon-he.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/12.7/Saxon-HE-12.7.jar
+          
+      - name: Use Saxon HE
+        run: |
+          java -jar saxon-he.jar -s:statnice.xml -xsl:statnice.xslt -o:statnice.fo
+          
       - name: Download Apache FOP
         run: |
           curl -L -o fop-bin.tar.gz https://downloads.apache.org/xmlgraphics/fop/binaries/fop-2.11-bin.tar.gz

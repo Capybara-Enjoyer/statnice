@@ -10,6 +10,7 @@
     <xsl:template match="/statnice">
         <html>
             <head>
+                <meta name="robots" content="noindex, nofollow"></meta>
                 <title>Státnice - Komisaři a Komise</title>
                 <style>
                     table, th, td { border: 1px solid black; border-collapse: collapse; }

@@ -18,7 +18,7 @@
                 </style>
             </head>
             <body>
-                <table cellpadding="0" cellspacing="0">
+                <table cellpadding="0" cellspacing="0" border-style="none">
                     <tr>
                         <td>
                             <h1>Státnice</h1>
@@ -71,9 +71,6 @@
                     <h2>Komise</h2>
           <xsl:for-each select="komise">
                         <table>
-                            <tr>
-                                <th colspan="2">Komise <xsl:value-of select="position()" /></th>
-                            </tr>
                             <tr>
                                 <th>Komisař</th>
                                 <th>Tituly</th>

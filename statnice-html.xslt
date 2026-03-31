@@ -18,7 +18,16 @@
                 </style>
             </head>
             <body>
-                <h1>Státnice</h1>
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                            <h1>Státnice</h1>
+                        </td>
+                        <td>
+                            <a href="https://statnice.capybara-enjoyer.de/statnice.pdf">pdf</a>
+                        </td>
+                    </tr>
+                </table>
                 <xsl:if test="@posledniUpdate">
                     <p>
                         <strong>Poslední update:</strong>

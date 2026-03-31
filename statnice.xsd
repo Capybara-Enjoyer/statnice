@@ -30,7 +30,7 @@
     <xs:complexType name="komiseType">
         <xs:sequence>
             <xs:element name="komisar" type="komisarInGroupType" minOccurs="3" maxOccurs="3" />
-            <xs:element name="otazka" type="xs:string" minOccurs="1" maxOccurs="unbounded" />
+            <xs:element name="otazka" type="otazkaType" minOccurs="1" maxOccurs="unbounded" />
         </xs:sequence>
     </xs:complexType>
 
@@ -38,5 +38,11 @@
         <xs:attribute name="jmeno" type="xs:string" use="required" />
         <xs:attribute name="tituly" type="xs:string" use="optional" />
     </xs:complexType>
+
+    <xs:simpleType name="otazkaType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\p{Lu}[^\r\n]*[.?]" />
+        </xs:restriction>
+    </xs:simpleType>
 
 </xs:schema>

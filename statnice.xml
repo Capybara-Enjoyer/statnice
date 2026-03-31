@@ -2,7 +2,7 @@
 <statnice
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="statnice.xsd"
-    posledniUpdate="2025-06-17">
+    posledniUpdate="2026-03-31">
 
     <komisar jmeno="Svatá Vlasta" tituly="doc. Ing., CSc.">
         <otazka>Co je proces, procesní řízení, modely procesů, jejich úrovně, notace pro modelování procesů?</otazka>
@@ -110,6 +110,7 @@
         <otazka>Na které vrstvě ISO OSI modelu jsou TCP a UDP?</otazka>
         <otazka>Jaké jsou výhody využití databází v porovnání s tabulkami např. v Excelu?</otazka>
         <otazka>V čem se liší protokoly TCP a UDP a na jaké vrstvě ISO/OSI modelu se nacházejí?</otazka>
+        <otazka>Vysvětlete pojem vývoj řízeného testy, rozsah a podmínky jeho uplatnění jaká jsou negativa tohoto přístupu.</otazka>
     </komisar>
     <komisar jmeno="Vojíř Stanislav" tituly="Ing. et Ing., Ph.D.">
         <otazka>Jaké jsou protokoly na aplikační úrovni sítí?</otazka>
@@ -239,6 +240,7 @@
     </komisar>
     <komisar jmeno="Potančok Martin" tituly="Ing., Ph.D.">
         <otazka>Jak vypadá prostředí podnikových informačních systémů? Jaké trendy zde spatřujete?</otazka>
+        <otazka>Jak by se řešila datová kvalita (její dimenze)?</otazka>
     </komisar>
     <komisar jmeno="Strossa Petr" tituly="doc. RNDr., CSc.">
         <otazka>Používá se XML například v MS Office?</otazka>
@@ -298,6 +300,7 @@
         <otazka>Na jakém principu fungují certifikáty?</otazka>
         <otazka>Jaká technika strojového učení by se dala použít pro klasifikace her?</otazka>
         <otazka>Jaké informace by byly použity pro souřadnice vektorů?</otazka>
+        <otazka>Jaké jsou hlavní principy LLM modelů, jaké jsou jejich hlavní rozdíly.</otazka>
     </komisar>
     <komisar jmeno="Basl Josef" tituly="prof. Ing., CSc.">
         <otazka>Jaká jsou kritéria optimalizace v rámci podnikových IS?</otazka>
@@ -308,6 +311,7 @@
     <komisar jmeno="Zamazal Ondřej" tituly="doc. Ing., Ph.D.">
         <otazka>Jaké typy úloh strojového učení byste mohl aplikovat na data z bakalářské práce?</otazka>
         <otazka>Jak vypadá síťová komunikace před zobrazením webové aplikace?</otazka>
+        <otazka>Co je to strojové učení? Jak by bylo možné využít strojové učení v rámci chytrého fotbálku?</otazka>
     </komisar>
     <komisar jmeno="Zimmermann Pavel" tituly="Ing., Ph.D.">
         <otazka>Statistické hypotézy, statistická významnost testů.</otazka>
@@ -411,6 +415,10 @@
         <otazka>Role Al v Business intelligence.</otazka>
         <otazka>Co to je markdown - markdown jako datový formát</otazka>
     </komisar>
+    <komisar jmeno="Hološka Jiří" tituly="Ing., Ph.D.">
+        <otazka>Jak lze při Websocket komunikaci zajistit integritu a ochranu přenášených dat?</otazka>
+    </komisar>
+
 
     <!-- OTAZKY BEZ URČITÉHO KOMISAŘE -->
     <komise>
@@ -431,7 +439,7 @@
         <komisar jmeno="Svatá Vlasta" tituly="doc. Ing., CSc." />
         <otazka>ERP podnikové systémy, základní funkce, možnosti pro funkcionalitu založenou na generativní Al.</otazka>
         <otazka>Modely dodávky služeb ERP, způsob nasazení ERP v prostředí organizace, cloud vs on-premise.</otazka>
-        <otazka>Řízení informatiky, IT governance, ITIL Finanční řízení IT, plánování, rozpočtování Umělá inteligence, aplikace umělé intelligence</otazka>
+        <otazka>Řízení informatiky, IT governance, ITIL Finanční řízení IT, plánování, rozpočtování Umělá inteligence, aplikace umělé intelligence.</otazka>
     </komise>
     <komise>
         <komisar jmeno="Vojíř Stanislav" tituly="Ing. et Ing., Ph.D." />
@@ -450,7 +458,7 @@
         <komisar jmeno="Svátek Vojtěch" tituly="prof. Ing., Dr." />
         <komisar jmeno="Chlapek Dušan" tituly="Ing., Ph.D." />
         <komisar jmeno="Zbořil Martin" tituly="Ing. Mgr., Ph.D." />
-        <otazka>Co je to data mining a k čemu slouží? Jak se liší od strojového učení</otazka>
+        <otazka>Co je to data mining a k čemu slouží? Jak se liší od strojového učení.</otazka>
         <otazka>Jaké jsou hlavní typy strojového učení a kde se používají?</otazka>
         <otazka>Jak lze v řídit kvalitu při vývoje softwaru?</otazka>
         <otazka>Jaké znáte návrhové vzory a k čemu se používají?</otazka>
@@ -464,7 +472,7 @@
         <otazka>Jaké znáte typy strojového učení a který algoritmus byste si vybral jako alternativu pro Vaše řešení?</otazka>
         <otazka>Obecné srovnání formátů CSV, XML, JSON (výhody, nevýhody, na co ne/vhodné). Jiné formáty dat.</otazka>
         <otazka>Jaké notace pro modelování by se daly použít v oblasti projektů inteligentní mobility?</otazka>
-        <otazka>Stručně charakterizujte základní druhy kybernetických útoků a jejich možné členění na typy (do skupin). Poté podrobněji popište např. druhy útoků na hesla</otazka>
+        <otazka>Stručně charakterizujte základní druhy kybernetických útoků a jejich možné členění na typy (do skupin). Poté podrobněji popište např. druhy útoků na hesla.</otazka>
         <otazka>Jakým způsobem je možné dosáhnout anonymity na internetu, jaké nástroje byste použil?</otazka>
     </komise>
     <komise>
@@ -491,8 +499,8 @@
         <otazka>Jaká vnímáte rizika a přínosy 5G technologií?</otazka>
         <otazka>Jak byste monetizoval výstupy vaší práce?</otazka>
         <otazka>Jaké formy šifrování komunikace znáte?</otazka>
-        <otazka>Výhody a nevýhody IPV4 a IPV6</otazka>
-        <otazka>Co je MVC, třívrstvá architektura</otazka>
+        <otazka>Výhody a nevýhody IPV4 a IPV6.</otazka>
+        <otazka>Co je MVC, třívrstvá architektura?</otazka>
     </komise>
     <komise>
         <komisar jmeno="Maryška Miloš" tituly="doc. Ing., Ph.D." />
@@ -503,7 +511,7 @@
         <otazka>V čem se liší verze HTTP 3 od předchozích a na jaké vrstvě běží HTTP 2?</otazka>
         <otazka>Jaké výhody má UDP oproti HTTP?</otazka>
         <otazka>Co je vodopádový vývojový model?</otazka>
-        <otazka>Co jsou to návrhové vzory a jak mohou pomoci ve vývoji vašeho řešení. MVC</otazka>
+        <otazka>Co jsou to návrhové vzory a jak mohou pomoci ve vývoji vašeho řešení. MVC.</otazka>
     </komise>
     <komise>
         <komisar jmeno="Řepa Václav" tituly="prof. Ing., CSc." />
@@ -557,7 +565,7 @@
         <komisar jmeno="Svatá Vlasta" tituly="doc. Ing., CSc." />
         <komisar jmeno="Máša Petr" tituly="RNDr. Ing., Ph.D." />
         <komisar jmeno="Šedivá Zuzana" tituly="Ing., Ph.D." />
-        <otazka>Způsoby řešení rizika úniku dat z aplikace</otazka>
+        <otazka>Způsoby řešení rizika úniku dat z aplikace.</otazka>
         <otazka>Jak se definuje informační bezpečnost a jak jsou řešeny jednotlivé součásti informační bezpečnosti ve vaší aplikaci?</otazka>
     </komise>
     <komise>
@@ -584,9 +592,9 @@
         <komisar jmeno="Zbořil Martin" tituly="Ing. Mgr., Ph.D." />
         <komisar jmeno="Dudáš Marek" tituly="Ing., Ph.D." />
         <komisar jmeno="Basl Josef" tituly="prof. Ing., CSc." />
-        <otazka>Jaké jsou obecně hlavní přínosy podnikových informačních systémů a které z nich by byly uplatnitelné V rámci tématu zpracovaného v kvalifikační</otazka>
-        <otazka>Jaká jsou bezpečnostní rizika webových aplikací</otazka>
-        <otazka>Jaké jsou protokoly k připojení k internetu</otazka>
+        <otazka>Jaké jsou obecně hlavní přínosy podnikových informačních systémů a které z nich by byly uplatnitelné V rámci tématu zpracovaného v kvalifikační?</otazka>
+        <otazka>Jaká jsou bezpečnostní rizika webových aplikací?</otazka>
+        <otazka>Jaké jsou protokoly k připojení k internetu?</otazka>
     </komise>
     <komise>
         <komisar jmeno="Sklenák Vilém" tituly="doc. Ing., CSc." />
@@ -630,7 +638,7 @@
         <komisar jmeno="Maryška Miloš" tituly="doc. Ing., Ph.D." />
         <komisar jmeno="Dudáš Marek" tituly="Ing., Ph.D." />
         <komisar jmeno="Sudzina František" tituly="Mgr. et Mgr. Ing., Ph.D." />
-        <otazka>Jaké byste identifikoval problémy a rizika generování velkých jazykových modeiu</otazka>
+        <otazka>Jaké byste identifikoval problémy a rizika generování velkých jazykových modelů?</otazka>
         <otazka>Melody šiřrování a jejich využití v rámci GAI?</otazka>
         <otazka>Metody testování?</otazka>
         <otazka>Metodiky budování informačních systémů?</otazka>
@@ -644,5 +652,25 @@
         <komisar jmeno="Zimmermann Pavel" tituly="Ing., Ph.D." />
         <otazka>Jaké úlohy strojového učení bychom mohli realizovat s daty o používání mobilních aplikací?</otazka>
         <otazka>Kvalita dat na příkladě Vaší práce.</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Vilém Sklenák" tituly="doc. Ing., CSc." />
+        <komisar jmeno="Lukáš Švarc" tituly="Ing., Ph.D." />
+        <komisar jmeno="Stanislav Vojíř" tituly="Ing. et Ing., Ph.D." />
+        <otazka>Co je to indexování dokumentů? K čemu se používá? Jak probíhá proces indexování?</otazka>
+        <otazka>Jak probíhá vyhledávání s použitím indexu?</otazka>
+        <otazka>S chatboty jste pravděpodobně komunikovala přes webové rozhraní, přes protokol https. Jak tento protokol funguje?</otazka>
+        <otazka>Čím je zabezpečený protokol https?</otazka>
+        <otazka>Znáte nějaké jiné modely z oblasti strojového učení než generativní Al?</otazka>
+        <otazka>Zvládla byste popsat shlukování nebo model využívající stromy? Kde se používá, jak funguje.</otazka>
+        <otazka>Znáte nějaký algoritmus pro vytvoření klasifikačního stromu?</otazka>
+    </komise>
+    <komise>
+        <komisar jmeno="Zamazal Ondřej" tituly="doc. Ing., Ph.D." />
+        <komisar jmeno="Hološka Jiří" tituly="Ing., Ph.D." />
+        <komisar jmeno="Potančok Martin" tituly="Ing., Ph.D." />
+        <otazka>Porovnejte datové formáty JSON, XML a RDF obecně, a také z hlediska možnosti reprezentace akordů.</otazka>
+        <otazka>Jaký je rozdil mezi relační databází a dokumentově orientovanou databází, jako je MongoDB?</otazka>
+        <otazka>Na co reaguje ITIL 4 a jaké jsou rozdíly vůči ITIL 3?</otazka>
     </komise>
 </statnice>

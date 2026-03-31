@@ -64,8 +64,7 @@
 
     <!-- Komise -->
     <xsl:template match="komise">
-        <fo:block font-size="10pt" font-weight="bold" space-before="1cm" space-after="0.2cm">
-        Komise: <xsl:for-each select="komisar">
+        <fo:block font-size="10pt" font-weight="bold" space-before="1cm" space-after="0.2cm"> Komise: <xsl:for-each select="komisar">
                 <xsl:if test="position() &gt; 1">, </xsl:if>
                 <xsl:value-of
                     select="substring-before(@jmeno, ' ')" />
